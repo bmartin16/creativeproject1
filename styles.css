@@ -13,13 +13,19 @@
 #top {
   background-color: #f8f9fa !important;
 }
-.btn-primary, .btn-primary:active, .btn-primary:visited{
-  background-color: #d32d26 !important;
-  border: #d32d26 !important;
-}
 .btn:hover {
   background-color: #af0000 !important;
   border: #af0000 !important;
+}
+
+.btn-default {
+background-color: #d32d26;
+border-color: #d32d26;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+background-color: #d32d26;
+border-color: #d32d26;
 }
 
 h1 {
