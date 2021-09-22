@@ -1,0 +1,30 @@
+.footer {
+  background-color: #f8f9fa;
+  display: flex;
+  flex: initial;
+  width: auto;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+}
+.my-5 {
+  background-color: #d3d3d3 !important;
+}
+#top {
+  background-color: #f8f9fa !important;
+}
+.btn-primary, .btn-primary:active, .btn-primary:visited{
+  background-color: #d32d26 !important;
+  border: #d32d26 !important;
+}
+.btn:hover {
+  background-color: #af0000 !important;
+  border: #af0000 !important;
+}
+
+h1 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.navbar-dark {
+  background-color: #d32d26 !important;
+}
