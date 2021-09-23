@@ -4,8 +4,12 @@
   flex: initial;
   width: auto;
   height: 150px;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
+}
+.footer-container {
+  display: flex;
+  margin: auto;
 }
 .my-5 {
   background-color: #d3d3d3 !important;
